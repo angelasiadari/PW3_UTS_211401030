@@ -6,4 +6,4 @@ index.html
 
 fanclub.html
 
-![fanclub html](https://user-images.githubusercontent.com/114636840/200112192-f2e2d63a-c2be-4f6b-91b1-d8a65d2a3ecf.jpeg)
+![Fanclub SS](https://user-images.githubusercontent.com/114636840/200112368-4a39fd93-f6d1-41e0-9b8f-1a537ac998f2.png)
